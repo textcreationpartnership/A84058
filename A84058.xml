@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The equity of the Solemne League and Covenant iustified, against an infectious and libellous pamphlet: intituled, The iniquity of the late Solemne League and Covenant discovered. As it was lately sent from Oxford: and intercepted by the way to London. Written by way of caution to all those who either have or shall reade the said dangerous paper.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84058</idno>
+            <idno type="STC">Wing E3186</idno>
+            <idno type="STC">Thomason E39_20</idno>
+            <idno type="STC">ESTC R17157</idno>
+            <idno type="EEBO-CITATION">99860152</idno>
+            <idno type="PROQUEST">99860152</idno>
+            <idno type="VID">112261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112261)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E39[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The equity of the Solemne League and Covenant iustified, against an infectious and libellous pamphlet: intituled, The iniquity of the late Solemne League and Covenant discovered. As it was lately sent from Oxford: and intercepted by the way to London. Written by way of caution to all those who either have or shall reade the said dangerous paper.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Field,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Iniquity of the late Solemne League and Covenant discovered --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643).</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112261:1"/>
+            <pb facs="tcp:112261:1" rendition="simple:additions"/>
+            <p>THE EQVITY Of the Solemne <hi>LEAGVE</hi> and <hi>COVENANT</hi> IVSTIFIED, Againſt an Infectious and Libellous Pamphlet: INTITVLED, THE INIQVITY Of the late Solemne <hi>League</hi> and <hi>Covenant</hi> Diſcovered.</p>
+            <p>As it was lately ſent from <hi>Oxford:</hi> and intercepted by the way to <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Written by way of Caution to all thoſe who either have or ſhall reade the ſaid dangerous Paper.</hi>
+            </p>
+            <p>Printed for <hi>Iohn Field.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112261:2"/>
+            <pb n="3" facs="tcp:112261:2"/>
+            <head>THE EQVITY OF THE SOLEMNE <hi>LEAGVE</hi> and <hi>COVENANT</hi> IVSTIFIED.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T being my fortune to meet with a frivolous and groundleſſe pamphlet, penned as by the Title appeares, on purpoſe to traduce the <hi>Equity</hi> and <hi>Juſtneſſe</hi> of our <hi>Sacred Solemne League</hi> and <hi>Cove<g ref="char:EOLhyphen"/>nant,</hi> and to poiſon the People with a miſunder<g ref="char:EOLhyphen"/>ſtanding thereof: And being informed that many of the papers were by <hi>Malignants</hi> and other ill Members procured and diſperſed abroad by ſtealth, and in a clandeſtine way: I thought my ſelf bound by the duty I owe unto God, and the publike obliga<g ref="char:EOLhyphen"/>tions of this <hi>Covenant,</hi> wherein I have a peculiar intereſt, to take in hand to anſwer it, and remove thoſe ſcruples, and ill-contrived ſtum<g ref="char:EOLhyphen"/>bling-blocks, which are caſt in the way of thoſe which have not as yet come in, and ſubſcribed to this holy Covenant.</p>
+            <p>I will not at all take notice of the bitterneſſe of the Traiterous and Seditious preamble, which ſufficiently ſets forth the Conſtituti<g ref="char:EOLhyphen"/>on of the Author. But conſidering that <hi>Oxford</hi> is the place from whence it came (where all their Doctrine is railing) I purpoſely paſſe it by, and will in a facile moderate way, betake my ſelfe to the ground work of the buſineſſe.</p>
+            <p>It is pretended to be written to a gentleman of his own party now in Durance, which deſired ſatisfactiun upon the point, who was intended to take the <hi>Covenant,</hi> as a meanes to procure his liberty; which be<g ref="char:EOLhyphen"/>fore he abſolutely reſolved upon, he deſires information from this dangerous Counſellour, who tels him, if his reſolution and advice
+<pb n="4" facs="tcp:112261:3"/>may in time be herad, it ſtands this upon theſe two points.</p>
+            <list>
+               <item>I. <hi>That no man can with a ſafe Conſcience enter this Covenant by reaſon of the groſſe and palpable Iniqvity of the Contents thereof.</hi>
+               </item>
+               <item>II. <hi>That he who through his own ignorance and cunning of others, hath been ſeduced, or by their threats and menaces forced, or by any other meanes brought to enter this Covenant with them, is not bound to the performance of the Contents, but having by the taking of it, contracted their guilt of a grievous ſinne, it bound to a ſpeedy re<g ref="char:EOLhyphen"/>pentance for the ſame.</hi>
+               </item>
+            </list>
+            <p>Theſe were notable convincing points indeed, if they were pro<g ref="char:EOLhyphen"/>ved: But he cares not for the reality of proof, ſo he may reduce his arguments to ſome ſpecious frame; for the maine ſcope, or end, which he pretends to by reaſoning upon theſe two points, is ſet downe in theſe two particulars.</p>
+            <p>Firſt, In the reſolving and keeping a good conſcience (as he ſtiles it) in the refuſall of this <hi>Covenant,</hi> by reaſon of the groſſe and palpable Iniquity of the contents thereof.</p>
+            <p>Secondly, For the recovery of the Conſcience enſnared by entring this <hi>Covenant,</hi> wherein is conſidered the not binding of it, if taken; which particulars, if thou canſt make good, <hi>Tu Dominus, Tu vir, Tu mihi frater eris:</hi> I ſhall moſt willingly Subſcribe.</p>
+            <p>Thus far we have a fair porch to the building, and which might take any man at the firſt fight: But let us now make entry, and ſee what furniture wee can finde within to entertaine a mans under<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>He proceeds to frame Obiections againſt the ſeverall Articles of the <hi>Covenant.</hi> And the firſt thing he excepts againſt, is, <hi>that we are bound to endeavour the extirpation of Prelacie, and Church-Govern<g ref="char:EOLhyphen"/>ment by, Archbiſhops Biſhops, &amp;c.</hi> By the firſt and ſecond Articles; and not onely ſo, but really and conſtantly to endeavour the ſame. Now he bids him ſee the Iniquity of this.</p>
+            <p>Object. 1. <hi>Firſt, he ſayes, here is ſedition: Subjects entring into a Covenant for a change of eſtabliſhed government, without and againſt their Soveraignes Command and Authority.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I anſwer, that this is not done againſt the Authority of our Soveraign, but this covenanting againſt Prelacie, is ordained, and entred upon, by thoſe who have Soveraign Authority communicated unto them from the King in Parliament, and by them it is commen<g ref="char:EOLhyphen"/>ded
+<pb n="5" facs="tcp:112261:3"/>unto the People to be ſworne againſt, as a government incon<g ref="char:EOLhyphen"/>ſiſtent with the good of the Kingdomes. Out of what Lawes Divine, or Civill and Nationall, do you read, that an Act of the grand Eſtates of a Kingdome lawfully convened, may be called ſedition.</p>
+            <p>Object. 2. <hi>Secondly, hee ſayes, Here is injuſtice to fellow-ſubjects: Subjects entring a Covenant, and binding themſelves to do notorions wrong and injury to others; that is, to extirpate a company of men, whoſe Function is of Apoſtolicall inſtitution, and hath continued in this Land from the firſt receiving of the Chriſtian Faith; whoſe immuni<g ref="char:EOLhyphen"/>ties alſo, and priviledges, are undeniably; moſt ancient and legall in this Kingdome.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Firſt, I anſwer, That it could never be proved yet (though there have been many papers vented pretending the probation of it) that ſo much as regulated Epiſcopacie, was of Apoſtolicall inſtitu<g ref="char:EOLhyphen"/>tion, muchleſſe Prelacie an order of a higher ſtraine, with all its Hie<g ref="char:EOLhyphen"/>rachicall Appurtenances, both of them being held in the opinion of the moſt and beſt Proteſtants unqueſtionable and obvious to all men, to be but of humane inſtitution.</p>
+            <p>
+               <hi>Anſw.</hi> 2. Secondly, I anſwer: Be it granted that their immunities and priviledges are ancient and legall within this Kingdome; yet you muſt remember, that thoſe immunities and priviledges were at firſt conferred upon them by the favour and indulgence of the State, in thoſe dayes of the growing greatneſſe of the Clergie, why then may not the ſame power of the State, in the an<g ref="char:EOLhyphen"/>cient and legall Court of Parliament, derived to their ſucceſſors, now lawfully aſſembled, with as much reaſon deprive them of thoſe immunities, together with their greatneſſe, which have proved un<g ref="char:EOLhyphen"/>deniably ſo prejudiciall to the Kingdome.</p>
+            <p>
+               <hi>Anſw.</hi> 3. Thirdly, I anſwer, that our covenanting to extirpate Prelacie cannot be called injuſtice, nor injury to our fellow-ſubjects by the ſame reaſon alſo: Becauſe the abolition of thoſe accidentall priviledges, the fruitfull p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rents of ſo many intolerable exorbitances, is agreed upon by the Supreme Court of Juſtice, the repreſentative Body of the Nation, which of it ſelf is ſufficient to annull the Hie<g ref="char:EOLhyphen"/>rarchie; but becauſe Authority is of little availment, without the addition of forcible power in times of difficulty, oppoſition &amp; rebel<g ref="char:EOLhyphen"/>lion of deſperate Incendiaries; therfore it was neceſſary that the loy<g ref="char:EOLhyphen"/>all partee of the Land ſhould be ingaged by Covenant, to defend the Parliament in the proſecution of their moſt juſt proceedings, to re<g ref="char:EOLhyphen"/>dreſſe
+<pb n="6" facs="tcp:112261:4"/>the grievances of the Subject, of which, Prelacy is not the leaſt, as alſo, for the chaſtizing of Delinquents; And how is it poſſible that this Prelaticall government ſhould be convenient for a State or Kingdome: whereas,</p>
+            <list>
+               <item>1. They have been burthenſome in all ages, what oppoſites in <hi>England</hi> have they been to our Kings, till their intereſts were changed?</item>
+               <item>2. Secondly, all reformed Churches have expelled them, as in<g ref="char:EOLhyphen"/>compatible with Reformation.</item>
+               <item>3. Thirdly, they have ſet three Kingdomes together by the eares, which now lie weltring in their own blood.</item>
+               <item>4. Fourthly, experience now ſhewes, there is no inconvenience in their want, either in <hi>Scotland</hi> or <hi>England.</hi>
+               </item>
+            </list>
+            <p>Object. 3. <hi>The third Objection is, that here is ſacriledge, in ſpoyling them, or a Church rather, of thoſe poſſeſſions and intereſts, which be<g ref="char:EOLhyphen"/>ſide the right of dedication, do by as good Law and Title belong to them, as any Liberty and poſſeſſion doth to other Subjects.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Be it granted, that the right of their poſſeſſions hold good by Law; yet when their Order and Function ſhall be diſannulled by Law, there muſt be a neceſſity of diſpoſing their Revenues other<g ref="char:EOLhyphen"/>wiſe, to the benefit of the Church, and ſo the end of the dedication being kept, by diſpoſing them to that uſe whereto they were at firſt intended, it were vain and fooliſh to call this ſacriledge and ſpoiling of the Church.</p>
+            <p>Object. 4. <hi>The fourth and laſt objection againſt the firſt and ſecond Articles of the Covenant is, that here is rebellion with the greateſt impiety: Subjects endeavouring this by force of Armes (as it will ap<g ref="char:EOLhyphen"/>peare by the ſixt Article, they that Covenant bind themſelves to do) that is to compell your Soveraigne to ſuch an extirpation and ſpoiling, againſt which he is bound by the Law of God, and by expreſſe oath, and cannot be releaſed of that oath, without their conſent to whom he makes it, viz. thoſe that muſt here be extirpated and ſpoiled.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Firſt I anſwer, that here is neither Rebellion, nor im<g ref="char:EOLhyphen"/>piety in the leaſt kind, to endeavour the extirpation of thoſe by Armes, which have been the maine cauſe of this preſent warre a<g ref="char:EOLhyphen"/>gainſt the Parliament, and enemies to Reformation; with whom, be<g ref="char:EOLhyphen"/>cauſe the King is now there in perſon, being ſeduced by evill Coun<g ref="char:EOLhyphen"/>cellors, and ſuch as have a deſigne to alter our Religion, invade
+<pb n="7" facs="tcp:112261:4"/>our Liberties, and bring in Popery; therefore we ſhall not defend our ſelves, our Religion and Liberties, nor labour to deliver the King from them, but you will ſay, we Covenant to compell His Majeſtie to that which in conſcience he cannot do, that is, to extir<g ref="char:EOLhyphen"/>pate prelacie; which brings me to my ſecond anſwer.</p>
+            <p>
+               <hi>Anſw.</hi> 2. Secondly I anſwer, that no oath is to be obſerved, but in <hi>licitis &amp; honestis,</hi> ſo farre forth as the matter ſworn to is approved and found lawfull; and it holds good in Divinity, that ſuch oathes as are not lawfull, are rather to be repented of, then perſiſted in. But upon politicke conſiderations there needs not any repentance, where the ſame power which ordained the things ſworn to, doth after the manifeſt inconvenience of it, with the preſent conſtitution of publike affaires, ordaine alſo the aboliſhment thereof: for then the obligation becomes altogether invalid, and in no wiſe binding to the ſwearer: And therefore it is frivolous to ſay that the King can<g ref="char:EOLhyphen"/>not be releaſed of ſuch an oath as he hath taken to maintain Prelacie, unleſſe the Prelates give conſent; when at the beſt (to uſe the Language of the learned Exhortation to the taking of the Covenant) their whole government is but a humane conſtitution, and ſuch as is found and adjudged by both Houſes of Parliament: (in which the judgement of the whole Kingdom is involved and declared) not only very prejudiciall to the civill State, but alſo a great hindrance to the perfect Reformation of Religion.</p>
+            <p>His ſecond exception is againſt the fourth Article, whereby he ſayes, he which enters this Covenant doth profeſſe, that he allow all thoſe which adhere to His Majeſtie in this cauſe, ſhould be eſteemed, and proceeded againſt, as Malignants, Incendiaries, and as in the firſt Article they are ſet out, common enemies: Alſo by the ſame, fourth Article he binds himſelf to diſcover all ſuch, that they may be brought to puniſhment.</p>
+            <p>Object. <hi>Now he tels him that the iniquity of this appears by what was ſaid upon the former Articles; but more eſpecially by the duties unto which the Oathes of Supremacy and allegiance bind all Subiects, viz. the aſſiſting of His Majeſtie againſt all attempts, and the diſ<g ref="char:EOLhyphen"/>covering unto Him all conſpiracies, duties contrary to what is under<g ref="char:EOLhyphen"/>taken here.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I anſwer, that it is great equity and reaſon, that thoſe now about his Majeſty, which have involved him in this war, and are
+<pb n="8" facs="tcp:112261:5"/>declared and known to be Incendiaries and Malignants, and the common Enemies of the Kingdome, ſhould be diſcovered and proceeded againſt thereafter; and that the equity of that Ar<g ref="char:EOLhyphen"/>ticle may further appeare, the intent of it is the very ſame with thoſe, in the Oathes of Supremacie and Allegiance, <hi>viz.</hi> The aſſiſting of his Majeſtie againſt attempts, and the diſcovering of conſpiracies; which doth not only evidence the equity, but al<g ref="char:EOLhyphen"/>ſo the ſeaſonablneſſe of this Covenant, being taken in ſuch a time, when there are ſo many attempts, practices and conſpi<g ref="char:EOLhyphen"/>racies in hand by a deſperate partee of Cavaliers againſt Reli<g ref="char:EOLhyphen"/>gion, and the Kingdome; the greateſt of which attempts is ab<g ref="char:EOLhyphen"/>ſolutely againſt his Majeſtie, though it ſeem otherwiſe, by engage<g ref="char:EOLhyphen"/>ing his Perſon in a bloody and ſtrange war.</p>
+            <p>Object. <hi>The third exception taken, is concerning a clauſe in the third Article, for preſerving and defending the Kings Majeſties Perſon, and Authority, without any thought or intention of dimi<g ref="char:EOLhyphen"/>niſhing his juſt power and greatneſſe;</hi> And all which he hath to ſay againſt it, is this: <hi>That though hee which enters this Covenant, may thinke this clauſe to be juſt and faire, yet is it indeed a fear<g ref="char:EOLhyphen"/>full colluſion and mocking of God, there being nothing more againſt his Majeſties authoritie and power, then the intent and purſuit of this Covenant.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> All the anſwer which I ſhall give to this, is, that it is but his ſay ſo, and I ſhall referre the impertiall Reader, to my former anſwers.</p>
+            <p>Object. <hi>His fourth exception is againſt the fifth Article; and hee objects, that hee which enters this Covenant, doth binde him<g ref="char:EOLhyphen"/>ſelf by that Article, to indeavour the continuance of peace between the two Kingdomes, which, according to the intent of this Cove<g ref="char:EOLhyphen"/>nant, hee muſt do, by joyning with thoſe who have actually broken the Pacification, and in purſuit of this Covenant, invaded this King<g ref="char:EOLhyphen"/>dome, which is alſo a fearfull colluſion and macking of God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I anſwer, that it is abſurd to ſay, that the Pacification between the two Kingdomes of <hi>England</hi> and <hi>Scotland</hi> is broken by this Covenant, when both the Kingdomes by an unanimous conſent, are joyned in this holy League for the mutuall defence and preſervation of each others peace; and with as little reaſon may it be called an Invaſion, or a colluſion and mocking of
+<pb n="9" facs="tcp:112261:5"/>God: For it is monſtrous to conceive that any men ſhould af<g ref="char:EOLhyphen"/>firm that ratification to be broken, when the perſons ratifying do joyntly proſecute the preſervation of it, by vertue of this Covenant, with all earneſtneſſe and alacrity, which is manifeſted at this day by an ample teſtimony of the full and free concurrence of the Bodies of both Nations.</p>
+            <p>The fifth exception taken, is againſt the ſixt Article; becauſe he that enters this Covenant doth profeſſe by the ſixt Article, that he allowes and approoves the Aſſiſting and defending of all thoſe, that take this Covenant, in the maintaining and purſuing thereof, againſt all oppoſition, and lets or impediments whatſoever; and by the ſame Article binds himſelf really and conſtantly, to endeavour the ſame to his power, without giving himſelfe to a deteſtable neutrality in this cauſe, or making a defection to the contrary part.</p>
+            <p>Object. <hi>Now ſee,</hi> ſaies he, <hi>the iniquity of this Article, which ſo plainely ſpeakes the language of deſperate Rebellion, that he which Co<g ref="char:EOLhyphen"/>venants with them, doth by this Article binde himſelfe to endeavour by force of Armes, to compell his Soveraigne to the Reformation pre<g ref="char:EOLhyphen"/>tended by this Covenant, and doth, as much as in him lies, cut himſelfe off from returning to his Duty and Obedience, which is here called, a de<g ref="char:EOLhyphen"/>fection to the contrary part.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I anſwer, that by this you may ſee the Iniquity of the Au<g ref="char:EOLhyphen"/>thor, and the deſparate ſence he makes uſe of to miſ-informe the Gentleman he wrote unto. The Equity of the Article is apparent; That there ſhould be a firme adhearing to this Covenant and conti<g ref="char:EOLhyphen"/>nuance in his ſame, notwithſtanding all oppoſition, contradiction, or diſwaſion to the contrary whatſoever. <hi>All the people ſtood to the Covenant,</hi> 2 <hi>King.</hi> 23.4. This was <hi>Ioſiah</hi> his care not onely for him<g ref="char:EOLhyphen"/>ſelfe, but for all the people; He made all that were found in <hi>Iudeth</hi> and <hi>Benjamin</hi> to ſtand to it, <hi>ſo all his dayes they turned not backe from the Lord God of their Fathers,</hi> 2 <hi>Chron.</hi> 34.32, 33. But as for that ſlaunder of compelling our Soveraigne by force of Armes to a Reformation; I anſwer, that it is not properly to compell him, but rather to expell thoſe from him, which are enemies to Reformati<g ref="char:EOLhyphen"/>on, and in time would approve themſelves ſo unto him alſo, if not reſiſted by his faithfull Subjects, and compell him to enact what themſelves pleaſe; which, what it would be if conſidered, is enough
+<pb n="10" facs="tcp:112261:6"/>to engage all true Chriſtian hearts againſt them: And therefore they are bound to this Covenant by that duty, obedience, and loy<g ref="char:EOLhyphen"/>ty which they owe unto their Soveraigne his Crowne and dignity, and the welfare of the Kingdomes, without defection to the con<g ref="char:EOLhyphen"/>trary part.</p>
+            <p>
+               <hi>Object.</hi> His laſt Exception is againſt a clauſe in the ſixth Article, <hi>That he which enters this Covenant, doth profeſſe that he approves, and binds himſelfe to all the premiſſes in the Articles, as to that which much concernes the glory of God, the good of the Kingdoms, and the honour of the King: and this he ſaies is to fill up the mea<g ref="char:EOLhyphen"/>ſure, and to mocke God Almighty to his face.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I anſwer, Let all men judge how unreaſonable and hel<g ref="char:EOLhyphen"/>liſh a ſlaunder this is, and obſerve with what wreſting theſe black characters of a falſe Comment, are here brought in under pretence of writing information to a Gentleman, to defame the genuine, and innocent ſence of a glorious Covenant.</p>
+            <p>Thus I have done with the firſt particular of his diſcouſe, which pretended to proove a neceſſity of refuſing this Covenant, by a falſe imputation of groſſe and palpable Iniquity upon the contents thereof. Now I ſhall proceed to the ſecond particular, pretending to prove a neceſſity of repenting of it, if once taken.</p>
+            <p>If he could have proved the premiſſes, then the Concluſion would have followed more current, for I grant what he ſaies, That the matter and intent of any Covenant being unlawfull, it cannot binde to performance, no more then <hi>Herods</hi> oath did bind him to proceed to execution, <hi>Matth.</hi> 14. or the great curſe under which the forty Conſpirators, <hi>Act.</hi> 23. combined themſelves to make an end of <hi>Paul,</hi> could indeede obliege them to performanc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; But the former point being not proved, the ſence of the Covenant being rather defamed and traduced, then controverted juſtly; This latter point grounded upon the former, muſt of neceſſity fall of it ſelfe, and therefore it needs not an anſwer, running altogether <hi>ex falſa Hypotheſi,</hi> upon a falſe ſuppoſition of Iniquity in the Cove<g ref="char:EOLhyphen"/>nant which is not as yet proved, nor can it be by the Ieſuits, and Ie<g ref="char:EOLhyphen"/>ſuited impugners at <hi>Oxford.</hi> If they can furniſh us with ſome con<g ref="char:EOLhyphen"/>vincing Arguments in this way, I my ſelfe who am a Covenanter, will not ſpeedily repent of it, but alſo perſwade others: but till then you muſt pardon me.</p>
+            <pb n="11" facs="tcp:112261:6"/>
+            <p>Now in relation to the latter part of his diſcourſe, I ſhall onely give you notice that the frame of it is grounded upon a falſe in<g ref="char:EOLhyphen"/>ſinuation,</p>
+            <p>Object. <hi>That this Covenant doth contrary the Oathes of allegi<g ref="char:EOLhyphen"/>ance and ſupremacie; and that the Iudges here tooke it with this re<g ref="char:EOLhyphen"/>ſervation: as thus, I take this Covenant ſo far forth as it doth not con<g ref="char:EOLhyphen"/>trary the Oathes of Allegiance and Supremacie.</hi> But,</p>
+            <p>
+               <hi>Anſw.</hi> 1. Firſt, I anſwer with the words of the learned exhor<g ref="char:EOLhyphen"/>tation to the taking of the Covenant, that this Covenant is ſo far from croſſing the Oathes of Supremacy and Allegiance, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t binds all, and more ſtrongly engageth them to preſerve, and de<g ref="char:EOLhyphen"/>fend the Kings Majeſties perſon and authority in the preſervation and defence of the true Religion and Liberties of the Kingdomes.</p>
+            <p>
+               <hi>Anſw.</hi> 2. I anſwer that the Iudges tooke it without any ſuch re<g ref="char:EOLhyphen"/>ſervation he ſpeakes of, or any other at all.</p>
+            <p>But this latter part need no anſwer (in regard as I ſaid before) of the grounding it upon a falſe ſuppoſition of the illegality and injuſtneſſe of this Covenant, which is not as yet proved: And there<g ref="char:EOLhyphen"/>fore I adviſe all to take heed both of the former and the latter, and to weigh the former objections with the anſwers impartially and ſeriouſly, not as men fore-armed with prejudicate opinions but as thoſe that deſire ſincerely to be informed of the neceſſity and excel<g ref="char:EOLhyphen"/>lency of this holy Covenant.</p>
+            <p>The Apoſtle <hi>Peter</hi> ſpeakes of <hi>Pauls</hi> writing, that in them ſome things are hard to be underſtood, which they that are unlearned, and unſtable, wreſt, as they do alſo the other ſcriptures, to their own deſtruction. 2. Epiſt. chap. 3. verſ. 16. But here on the con<g ref="char:EOLhyphen"/>trary, though the text of this Covenant be eaſie to be underſtood, we ſee that ſome (who at leſt think themſelves) learned, and who are not only ſtable but ſtiffened (as moſt of the Oxford partie are) in their own erroneous principles and opinions, will be trying their skill (or rather malice) to wreſt or (as the Greek word <hi>ſtreblouſi</hi> imparts) to torture and ſet this Covenant upon the racke, to make it ſpeake, and confeſſe a ſence never intended by the compoſers, or propoſers of it: And whereof (if but common ingenuity be the judge) it never will, nor can be found guilty: But at this time, I ſhall ſay no more to the Author of this baſe, injurious paper, but that in the cloſe of the verſe quoted from the Apoſtle <hi>Peter;</hi> Let him
+<pb n="12" facs="tcp:112261:7"/>take heed ſuch wreſting as this be not to his own deſtruction.</p>
+            <p>Thus I hope in anſwering this virulent Pamphlet, I have given the Readers ſome inſite into the matter of this holy League &amp; Covenant, according to the ſincere aime of thoſe that made it; Take it then Reader and ſweare to it: Who but an Atheiſt can refuſe the firſt Article? Who but a Papiſt the ſecond: who but an oppreſſor, or Rebell the third? Who but the guilty the fourth? Who but men of no fortune, deſperate Caviliers the fifth (Who but light and empty men, unſtable as water the ſixt? In a word the duty is ſuch that God hath ordained, the matter is ſuch as God approveth, and the conſe<g ref="char:EOLhyphen"/>quence will be ſuch as God hath promiſed, the accompliſhment of our peace and happineſſe in this life, and the finall conſummation of it in that which is to come.</p>
+            <p>This is Licenced and entred according to Order.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
